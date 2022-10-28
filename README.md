@@ -1,7 +1,7 @@
 # Mobile Manipulation Capstone Project
-**Submitted by: Yuchen Wang**
+**Submitted by: D subhash**
 
-*Northwestern University*
+*gitam University*
 
 ## Introduction
 In this capstone project, I wrote a software that plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down.
